@@ -1,8 +1,6 @@
-# template
+# NativeScript Vue Typescript Template
 
-This template uses Vue JS and typescript with vue-property-decorator, vue-class-components
-
-> mobile app
+This template uses Vue JS and typescript with vue-property-decorator, vue-class-components. Clone this repository to use it.
 
 ## Usage
 
